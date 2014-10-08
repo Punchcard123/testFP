@@ -1,0 +1,11 @@
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\ExtLibs\GMap.NET.WindowsForms\bin\Release\GMap.NET.WindowsForms.dll
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\ExtLibs\GMap.NET.WindowsForms\bin\Release\GMap.NET.WindowsForms.XML
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\ExtLibs\GMap.NET.WindowsForms\bin\Release\GMap.NET.Core.dll
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\ExtLibs\GMap.NET.WindowsForms\bin\Release\GMap.NET.Core.xml
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\ExtLibs\bin\x86\Release\GMap.NET.WindowsForms.dll
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\ExtLibs\bin\x86\Release\GMap.NET.WindowsForms.XML
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\ExtLibs\GMap.NET.WindowsForms\obj\Release\GMap.NET.TilePrefetcher.resources
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\ExtLibs\GMap.NET.WindowsForms\obj\Release\GMap.NET.Properties.Resources.resources
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\ExtLibs\GMap.NET.WindowsForms\obj\Release\GMap.NET.WindowsForms.dll
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\ExtLibs\GMap.NET.WindowsForms\obj\Release\GMap.NET.WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\ExtLibs\GMap.NET.WindowsForms\obj\Release\GMap.NET.WindowsForms.csproj.GenerateResource.Cache

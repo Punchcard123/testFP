@@ -1,0 +1,9 @@
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\Msi\wix.exe.config
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\Msi\wix.exe
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\Msi\wix.pdb
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\wix\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\wix\obj\x86\Release\wix.Properties.Resources.resources
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\wix\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\wix\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\wix\obj\x86\Release\wix.exe
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\wix\obj\x86\Release\wix.pdb

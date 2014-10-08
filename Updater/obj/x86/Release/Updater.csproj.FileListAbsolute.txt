@@ -1,0 +1,9 @@
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\bin\Release\Updater.exe.config
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\bin\Release\Updater.exe
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\bin\Release\Updater.pdb
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\Updater\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\Updater\obj\x86\Release\Updater.Properties.Resources.resources
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\Updater\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\Updater\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\Updater\obj\x86\Release\Updater.exe
+C:\Users\DavidR\Documents\Visual Studio 2010\Projects\Dronemetrex\DmxMissionPlanner-1.2.36\Updater\obj\x86\Release\Updater.pdb
